@@ -1,2 +1,2 @@
-# Inentory-management-system
+# Inventory-management-system
 web programming project
